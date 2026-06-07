@@ -1,0 +1,110 @@
+{
+  "projectile.devilgatling": {
+    "_comment": "Reduced volume",
+    "replace": true,
+    "category": "ambient",
+    "sounds": [{"name": "lycanitesmobs:projectile/devilgatling", "volume": 0.5, "pitch": 0.75, "stream": false}],
+    "subtitle": "entity.devilgatling"
+  },
+  "_comment": "Missing from Vanilla",
+  "block.rabbitooze": {
+    "category": "block",
+    "sounds": [{"name": "lycanitesmobs:block/ooze", "stream": false}],
+    "subtitle": "subtitles.block.rabbitooze.ambient"
+  },
+  "block.primefire": {
+    "category": "block",
+    "sounds": [{"name": "lycanitesmobs:block/primefire", "stream": false}],
+    "subtitle": "tile.primefire.name"
+  },
+  "entity.balayang.eat": {
+    "category": "hostile",
+    "sounds": [{"name": "lycanitesmobs:entity/balayang/eat", "stream": false}],
+    "subtitle": "subtitles.entity.balayang.eat"
+  },
+  "entity.calpod.beg": {
+    "category": "hostile",
+    "sounds": [{"name": "lycanitesmobs:entity/calpod/beg", "stream": false}],
+    "subtitle": "subtitles.entity.calpod.beg"
+  },
+  "entity.calpod.tame": {
+    "category": "hostile",
+    "sounds": [{"name": "lycanitesmobs:entity/calpod/tame", "stream": false}],
+    "subtitle": "subtitles.entity.calpod.tame"
+  },
+  "entity.gorger.step": {
+    "category": "hostile",
+    "sounds": [{"name": "lycanitesmobs:entity/gorger/step", "stream": false}],
+    "subtitle": "subtitles.entity.gorger.step"
+  },
+  "entity.ignibus.attack": {
+    "category": "hostile",
+    "sounds": [{"name": "lycanitesmobs:entity/ignibus/attack", "stream": false}],
+    "subtitle": "subtitles.entity.ignibus.attack"
+  },
+  "entity.ioray.attack": {
+    "category": "hostile",
+    "sounds": [{"name": "lycanitesmobs:entity/ioray/attack", "stream": false}],
+    "subtitle": "subtitles.entity.ioray.attack"
+  },
+  "entity.ioray.jump": {
+    "category": "hostile",
+    "sounds": [{"name": "lycanitesmobs:entity/ioray/jump", "stream": false}],
+    "subtitle": "subtitles.entity.ioray.jump"
+  },
+  "entity.necrovore.attack": {
+    "category": "hostile",
+    "sounds": [{"name": "lycanitesmobs:entity/necrovore/attack", "stream": false}],
+    "subtitle": "subtitles.entity.necrovore.attack"
+  },
+  "entity.necrovore.step": {
+    "category": "hostile",
+    "sounds": [{"name": "lycanitesmobs:entity/necrovore/step", "stream": false}],
+    "subtitle": "subtitles.entity.necrovore.step"
+  },
+  "entity.serpix.step": {
+    "category": "hostile",
+    "sounds": [{"name": "lycanitesmobs:entity/serpix/step", "stream": false}],
+    "subtitle": "subtitles.entity.serpix.step"
+  },
+  "entity.thresher.jump": {
+    "category": "hostile",
+    "sounds": [{"name": "lycanitesmobs:entity/thresher/jump", "stream": false}],
+    "subtitle": "subtitles.entity.thresher.jump"
+  },
+  "entity.zoataur.jump": {
+    "category": "hostile",
+    "sounds": [{"name": "lycanitesmobs:entity/zoataur/jump", "stream": false}],
+    "subtitle": "subtitles.entity.zoataur.jump"
+  },
+  "entity.zoataur.mount": {
+    "category": "hostile",
+    "sounds": [{"name": "lycanitesmobs:entity/zoataur/mount", "stream": false}],
+    "subtitle": "subtitles.entity.zoataur.mount"
+  },
+  "projectile.primeember": {
+    "category": "ambient",
+    "sounds": [{"name": "lycanitesmobs:block/primefire", "stream": false}],
+    "subtitle": "entity.primeember"
+  },
+  "projectile.lobdarklings": {
+    "category": "ambient",
+    "sounds": [{"name": "lycanitesmobs:projectile/chaosorb", "stream": false}],
+    "subtitle": "entity.lobdarklings"
+  },
+  "projectile.summoningseed": {
+    "category": "ambient",
+    "sounds": [{"name": "lycanitesmobs:projectile/chaosorb", "stream": false}],
+    "subtitle": "entity.summoningseed"
+  },
+  "projectile.hellfirewave": {
+    "category": "ambient",
+    "sounds": [{"name": "lycanitesmobs:projectile/hellfirewave", "stream": false}],
+    "subtitle": "subtitles.projectile.hellfirewave"
+  },
+  "projectile.hellfirebarrier": {
+    "category": "ambient",
+    "sounds": [{"name": "lycanitesmobs:projectile/hellfirewave", "stream": false}],
+    "subtitle": "subtitles.projectile.hellfirebarrier"
+  }
+}
