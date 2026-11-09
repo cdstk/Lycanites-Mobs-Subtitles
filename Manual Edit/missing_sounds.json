@@ -1,0 +1,9 @@
+{
+  "entity.malayang.say": {"sounds": [],"replace": true},
+  "entity.malayang.hurt": {"sounds": [],"replace": true},
+  "entity.malayang.death": {"sounds": [],"replace": true},
+  "entity.malayang.fly": {"sounds": [],"replace": true},
+  "entity.malayang.attack": {"sounds": [],"replace": true},
+  "entity.malayang.beg": {"sounds": [],"replace": true},
+  "entity.malayang.tame": {"sounds": [],"replace": true}
+}

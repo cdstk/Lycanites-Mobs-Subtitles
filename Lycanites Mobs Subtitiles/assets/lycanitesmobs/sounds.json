@@ -1,4 +1,11 @@
 {
+  "entity.malayang.say": {"sounds": [],"replace": true},
+  "entity.malayang.hurt": {"sounds": [],"replace": true},
+  "entity.malayang.death": {"sounds": [],"replace": true},
+  "entity.malayang.fly": {"sounds": [],"replace": true},
+  "entity.malayang.attack": {"sounds": [],"replace": true},
+  "entity.malayang.beg": {"sounds": [],"replace": true},
+  "entity.malayang.tame": {"sounds": [],"replace": true},
   "entity.spriggan.step": {"sounds": []},
   "entity.spriggan.attack": {"sounds": []},
   "entity.spriggan.jump": {"sounds": []},
@@ -1679,48 +1686,6 @@
         "sounds": [{"name": "lycanitesmobs:entity/gorgomite/attack", "stream": false}],
         "replace": true,
         "subtitle": "subtitles.entity.gorgomite.attack"
-    },
-    "entity.malayang.say": {
-        "category": "hostile",
-        "sounds": [{"name": "lycanitesmobs:entity/malayang/say", "stream": false}],
-        "replace": true,
-        "subtitle": "subtitles.entity.malayang.say"
-    },
-    "entity.malayang.hurt": {
-        "category": "hostile",
-        "sounds": [{"name": "lycanitesmobs:entity/malayang/hurt", "stream": false}],
-        "replace": true,
-        "subtitle": "subtitles.entity.malayang.hurt"
-    },
-    "entity.malayang.death": {
-        "category": "hostile",
-        "sounds": [{"name": "lycanitesmobs:entity/malayang/death", "stream": false}],
-        "replace": true,
-        "subtitle": "subtitles.entity.malayang.death"
-    },
-    "entity.malayang.fly": {
-        "category": "hostile",
-        "sounds": [{"name": "lycanitesmobs:entity/malayang/fly", "stream": false}],
-        "replace": true,
-        "subtitle": "subtitles.entity.malayang.fly"
-    },
-    "entity.malayang.attack": {
-        "category": "hostile",
-        "sounds": [{"name": "lycanitesmobs:entity/malayang/attack", "stream": false}],
-        "replace": true,
-        "subtitle": "subtitles.entity.malayang.attack"
-    },
-    "entity.malayang.beg": {
-        "category": "hostile",
-        "sounds": [{"name": "lycanitesmobs:entity/malayang/beg", "stream": false}],
-        "replace": true,
-        "subtitle": "subtitles.entity.malayang.beg"
-    },
-    "entity.malayang.tame": {
-        "category": "hostile",
-        "sounds": [{"name": "lycanitesmobs:entity/malayang/tame", "stream": false}],
-        "replace": true,
-        "subtitle": "subtitles.entity.malayang.tame"
     },
     "entity.cinder.say": {
         "category": "hostile",
